@@ -6,6 +6,7 @@
 ⦿Home security camera surveillance and online notification system.<br>
 ⦿All the data is sent to a ThingSpeak channels via its REST API.<br>
 https://thingspeak.com/channels/1226727       ||           https://thingspeak.com/channels/282733<br>
+
 Analytics of heat load, temperature, working of devices and security. 
 Storage power consumption data on cloud and give an insight of how Data Analytics (DA) can leverage such data deposit and produce insights which can then be transformed into enhanced services.
 To reduce the ecological impact that would cause the replacement of every old-fashioned consumer appliance by new Internet-connected ones.
