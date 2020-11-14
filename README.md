@@ -14,6 +14,7 @@ To reduce the ecological impact that would cause the replacement of every old-fa
                                                   Components:
 
                        Hardware                                          Software
+                 =========================                        =========================
                     Raspberry Pi 3                                   Raspbian OS/ NOOB
                     Heater                                           MATLAB/Thingspeak
                     Sensors (DHT11, PIR, LDR)                        VNC Server/Viewer
