@@ -23,7 +23,7 @@ To reduce the ecological impact that would cause the replacement of every old-fa
                     Android Smartphone                               ssmptp package
                                                                      Python packages
      
-    
+    CONTRIBUTORS : ABDUL MUJEEB DALAL  & MOHSIN UL HAQ
     
     
     
