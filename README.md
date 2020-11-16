@@ -13,7 +13,7 @@ To reduce the ecological impact that would cause the replacement of every old-fa
 <h3>
                                                   Components:
 
- <h3>                    Hardware                                          Software
+ <h5> <pre>             Hardware                                          Software
                  =========================                        =========================
                     Raspberry Pi 3                                   Raspbian OS/ NOOB
                     Heater                                           MATLAB/Thingspeak
@@ -22,7 +22,7 @@ To reduce the ecological impact that would cause the replacement of every old-fa
                     Pi Camera module                                 Google Cloud Speech 
                     Relay (solid state better)                       REST api
                     Android Smartphone                               ssmptp package
-                    Holding Framework                                Android bluetooth voice app (Used modified Blueterm:open source)
+                    Holding Framework                                Android bluetooth voice app (Used modified Blueterm:open source)   </pe> </h5>
                                                                      
      
     CONTRIBUTORS : ABDUL MUJEEB DALAL  & MOHSIN UL HAQ  
