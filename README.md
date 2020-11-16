@@ -13,7 +13,7 @@ To reduce the ecological impact that would cause the replacement of every old-fa
 <h3>
                                                   Components:
 
- <h5> <pre>             Hardware                                          Software
+ <h5> <pre>                        Hardware                                          Software
                  =========================                        =========================
                     Raspberry Pi 3                                   Raspbian OS/ NOOB
                     Heater                                           MATLAB/Thingspeak
