@@ -10,20 +10,22 @@ https://thingspeak.com/channels/1226727       ||           https://thingspeak.co
 Analytics of heat load, temperature, working of devices and security. 
 Storage power consumption data on cloud and give an insight of how Data Analytics (DA) can leverage such data deposit and produce insights which can then be transformed into enhanced services.
 To reduce the ecological impact that would cause the replacement of every old-fashioned consumer appliance by new Internet-connected ones.
-
+<h3>
                                                   Components:
 
-                       Hardware                                          Software
+ <h3>                    Hardware                                          Software
                  =========================                        =========================
                     Raspberry Pi 3                                   Raspbian OS/ NOOB
                     Heater                                           MATLAB/Thingspeak
-                    Sensors (DHT11, PIR, LDR)                        VNC Server/Viewer
+                    Sensors (DHT11, PIR, LDR)                        Python packages (sensors etc.)
+                    LEDs and wiring                                  VNC Server/Viewer
                     Pi Camera module                                 Google Cloud Speech 
-                    Relay                                            REST api
+                    Relay (solid state better)                       REST api
                     Android Smartphone                               ssmptp package
-                                                                     Python packages
+                    Holding Framework                                Android bluetooth voice app (Used modified Blueterm:open source)
+                                                                     
      
-    CONTRIBUTORS : ABDUL MUJEEB DALAL  & MOHSIN UL HAQ
+    CONTRIBUTORS : ABDUL MUJEEB DALAL  & MOHSIN UL HAQ  
     
     
     
